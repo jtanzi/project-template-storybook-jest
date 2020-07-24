@@ -1,4 +1,6 @@
-# ProjectTemplateStorybookJest
+# Angular Project Template (Storybook & Jest)
+
+This project is designed to serve as a starter template for Angular projects that use Storybook with Jest as a test runner. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
@@ -14,9 +16,13 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Running Storybook UI
+
+Run `ng storybook` to start the [Storybook](https://github.com/storybookjs/storybook) service and test your components. 
+
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Jest](https://github.com/facebook/jest).
 
 ## Running end-to-end tests
 
